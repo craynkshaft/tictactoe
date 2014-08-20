@@ -1,0 +1,11 @@
+
+.square {
+	position: relative;
+	background: #FFF;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin: -1px;
+	border: 2px solid #000;
+	font-size: 60px;
+}
